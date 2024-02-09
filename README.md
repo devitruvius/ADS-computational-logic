@@ -30,7 +30,7 @@ Este repositório tem como objetivo fornecer uma coleção de questionários com
 
 ## 2. Índice
 ### 2.1. Questionário 1: Lógica Clássica
-   - [Repositório do Questionário 1]()
+   - [Repositório do Questionário 1](https://github.com/devitruvius/ADS-Logica-Classica)
 
 ### 2.2. Questionário 2: Lógica Proposicional
    - [Repositório do Questionário 2]()
