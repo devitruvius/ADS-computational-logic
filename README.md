@@ -1,7 +1,7 @@
 # Repositório de Atividades
 
 ## Objetivo
-Este repositório tem como objetivo fornecer uma coleção de questionários com questões de lógica clássica, lógica proposicional, lógica de predicados e Prolog resolvidas em Python. O material foi desenvolvido para auxiliar estudantes e entusiastas na prática e aplicação dos conceitos de lógica computacional, proporcionando exemplos práticos e soluções em Python.
+Este repositório tem como objetivo fornecer uma coleção de questionários com questões de lógica clássica, lógica proposicional e lógica de predicados resolvidas em Python. O material foi desenvolvido para auxiliar estudantes e entusiastas na prática e aplicação dos conceitos de lógica computacional, proporcionando exemplos práticos e soluções em Python.
 
 ## 1. Conceitos explorados em Lógica Computacional
 ### 1.1 Lógica Clássica
