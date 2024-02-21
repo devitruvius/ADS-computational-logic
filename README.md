@@ -16,17 +16,13 @@ Este repositório tem como objetivo fornecer uma coleção de questionários com
    - Exploração de problemas relacionados a quantificadores, predicados e inferência lógica.
    - Desenvolvimento de soluções para problemas de validade e satisfatibilidade de fórmulas lógicas.
 
-### 1.4 Prolog
-   - Resolução de questões utilizando a linguagem de programação Prolog.
-   - Implementação de programas lógicos para resolver problemas específicos, como árvores de decisão e listas.
-
-### 1.5 Lógica de Programação em Python
+### 1.4 Lógica de Programação em Python
    - Desenvolvimento e aplicação de algoritmos em Python para resolver problemas de lógica computacional.
    - Integração de conceitos de lógica com programação prática em Python.
 
-### 1.6 Exemplos e Códigos Práticos
+### 1.5 Exemplos e Códigos Práticos
    - Apresentação de exemplos práticos para cada conceito abordado.
-   - Disponibilização de códigos-fonte em Python e Prolog para análise e compreensão.
+   - Disponibilização de códigos-fonte em Python para análise e compreensão.
 
 ## 2. Índice
 ### 2.1. Questionário 1: Lógica Clássica
