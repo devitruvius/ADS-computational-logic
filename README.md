@@ -1,4 +1,4 @@
-# Disciplina: Introdução à Lógica Computacional
+# Introdução à Lógica Computacional
 
 ## Objetivo
 Este repositório tem como objetivo fornecer uma coleção de questionários com questões de lógica clássica, lógica proposicional e lógica de predicados resolvidas em Python. O material foi desenvolvido para auxiliar estudantes e entusiastas na prática e aplicação dos conceitos de lógica computacional, proporcionando exemplos práticos e soluções em Python.
