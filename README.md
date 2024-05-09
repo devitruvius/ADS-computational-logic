@@ -24,18 +24,31 @@ Este repositório tem como objetivo fornecer uma coleção de questionários com
    - Apresentação de exemplos práticos para cada conceito abordado.
    - Disponibilização de códigos-fonte em Python para análise e compreensão.
 
-## 2. Índice
-### 2.1. Questionário 1: Lógica Clássica
+## Atividades
+
+O repositório contém cinco atividades que visam aprofundar o aprendizado dos conceitos explorados:
+
+* **Questionário 1: Lógica Clássica**
    - [Repositório do Questionário 1](https://github.com/devitruvius/ADS-Logica-Classica)
 
-### 2.2. Questionário 2: Lógica Proposicional
+* **Questionário 2: Lógica Proposicional**
    - [Repositório do Questionário 2]()
 
-### 2.3. Questionário 3: Consequências Lógicas e Argumentos
+* **Questionário 3: Consequências Lógicas e Argumentos**
    - [Repositório do Questionário 3]()
 
-### 2.4. Questionário 4: Lógica de Predicados
+* **Questionário 4: Lógica de Predicados**
    - [Repositório do Questionário 4]()
 
-### 2.5. Questionário 5: Lógica de Prolog
+* **Questionário 5: Lógica de Prolog**
    - [Repositório do Questionário 5]()
+
+## Repositório Principal
+
+Este é o repositório principal que contém todas as atividades relacionadas ao curso de Análise e Desenvolvimento de Sistemas (ADS) da UFCA. Você pode encontrar todos os materiais relacionados ao curso neste repositório central:
+* [Repositório de Atividades - Análise e Desenvolvimento de Sistemas (UFCA)](https://github.com/devitruvius/college-repository)
+
+ 
+## Licença
+
+Este repositório está licenciado sob a licença [MIT](https://choosealicense.com/licenses/mit/).
