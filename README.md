@@ -28,20 +28,15 @@ Este repositório tem como objetivo fornecer uma coleção de questionários com
 
 O repositório contém cinco atividades que visam aprofundar o aprendizado dos conceitos explorados:
 
-* **Questionário 1: Lógica Clássica**
-   - [Repositório do Questionário 1](https://github.com/devitruvius/ADS-Logica-Classica)
+* [Questionário 1: Lógica Clássica](https://github.com/devitruvius/ADS-Logica-Classica)
 
 * **Questionário 2: Lógica Proposicional**
-   - [Repositório do Questionário 2]()
 
 * **Questionário 3: Consequências Lógicas e Argumentos**
-   - [Repositório do Questionário 3]()
 
 * **Questionário 4: Lógica de Predicados**
-   - [Repositório do Questionário 4]()
 
 * **Questionário 5: Lógica de Prolog**
-   - [Repositório do Questionário 5]()
 
 ## Repositório Principal
 
