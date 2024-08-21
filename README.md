@@ -39,11 +39,8 @@ O repositório contém cinco atividades que visam aprofundar o aprendizado dos c
 * **Questionário 5: Lógica de Prolog**
 
 ## Repositório Principal
+* [Voltar](https://github.com/devitruvius/college-repository)
 
-Este é o repositório principal que contém todas as atividades relacionadas ao curso de Análise e Desenvolvimento de Sistemas (ADS) da UFCA. Você pode encontrar todos os materiais relacionados ao curso neste repositório central:
-* [Repositório de Atividades - Análise e Desenvolvimento de Sistemas (UFCA)](https://github.com/devitruvius/college-repository)
-
- 
 ## Licença
 
 Este repositório está licenciado sob a licença [MIT](https://choosealicense.com/licenses/mit/).
